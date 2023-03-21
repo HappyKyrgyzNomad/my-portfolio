@@ -83,7 +83,10 @@ const Contact = () => {
             {" "}
             <img src={telegram} alt="teleg" className="w-7 h-7 inline" />
           </a>
-          <a href="tel:+996221138602" className={styles.sectionSubText}>
+          <a
+            href="https://www.t.me/wing_nomad"
+            className={styles.sectionSubText}
+          >
             {" "}
             +996221138602{" "}
           </a>
