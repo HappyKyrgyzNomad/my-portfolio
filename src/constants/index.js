@@ -116,11 +116,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "SWAP",
+    title: " Middle Frontend developer",
+    company_name: "Everglow international",
     icon: web,
     iconBg: "#383E56",
-    date: "March 2022 - March 2023",
+    date: "Feb 2023 - present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -129,11 +129,11 @@ const experiences = [
     ],
   },
   {
-    title: "React.js Developer",
+    title: "Frontend Developer",
     company_name: "Kyrgyz State Technical University ",
     icon: reactjs,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2022 - Jan 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality site.",
@@ -142,14 +142,14 @@ const experiences = [
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Freelance",
+    title: " Junior Frontend Developer ",
+    company_name: "Kyrgyz State Customs",
     icon: jobit,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2021 - Jan 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Creation and development of the user interface for web applications and websites using HTML, CSS and JavaScript",
+      "Interface optimization for maximum performance and better user experience. ",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
