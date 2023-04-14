@@ -34,12 +34,13 @@ const ExperienceCard = ({ experience }) => {
     >
       <div>
         <h3 className="text-white text-[24px] font-bold">{experience.title}</h3>
-        <p
+        <a
+          href={experience.link}
           className="text-secondary text-[16px] font-semibold"
           style={{ margin: 0 }}
         >
           {experience.company_name}
-        </p>
+        </a>
       </div>
 
       <ul className="mt-5 list-disc ml-5 space-y-2">

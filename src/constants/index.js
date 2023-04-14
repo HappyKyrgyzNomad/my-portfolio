@@ -121,6 +121,7 @@ const experiences = [
     icon: web,
     iconBg: "#383E56",
     date: "Feb 2023 - present",
+    link: "https://everglowinternational.com/",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -134,22 +135,10 @@ const experiences = [
     icon: reactjs,
     iconBg: "#E6DEDD",
     date: "Jan 2022 - Jan 2023",
+    link: "https://iit-kg.web.app/",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality site.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: " Junior Frontend Developer ",
-    company_name: "Kyrgyz State Customs",
-    icon: jobit,
-    iconBg: "#383E56",
-    date: "Jan 2021 - Jan 2022",
-    points: [
-      "Creation and development of the user interface for web applications and websites using HTML, CSS and JavaScript",
-      "Interface optimization for maximum performance and better user experience. ",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
