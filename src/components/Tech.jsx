@@ -34,7 +34,7 @@ const Tech = () => {
   return (
     <motion.div>
       <h1 className="text-white text-[20px] font-bold text-center mb-20">
-        My stacks
+        My stack
       </h1>
       <div className="flex flex-row flex-wrap justify-center gap-10">
         {technologies.map((technology) => (
