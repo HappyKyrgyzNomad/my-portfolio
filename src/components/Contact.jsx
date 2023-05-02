@@ -79,7 +79,7 @@ const Contact = () => {
 
         <div className="mb-3">
           {" "}
-          <a href="https://www.instagram.com/talacoustics/">
+          <a href="https://www.t.me/wing_nomad">
             {" "}
             <img src={telegram} alt="teleg" className="w-7 h-7 inline" />
           </a>
